@@ -3,9 +3,7 @@
 
 ## SC126 Compact v1
 
-
-
-![](Front3.JPG)
+![](SC126_CompactCase)
 
 
 
@@ -15,15 +13,9 @@
 - [x] BOM Included in Guide
 - [ ] Detailed Printing Instructions Available
 
-
-
-
-
-
-
 ## SC126 Stacked v2
 
-![](PA230005.JPG)
+![](SC126_StackedCase)
 
 - [x] STL Design Files Available for Printing
 - [x] Autodesk(R) Fusion360 Project Files Available
@@ -35,7 +27,7 @@
 
 ## RC2014 Modular v2 (Prototype)
 
-![](PA230001.JPG)
+![](RC2014_ModularCase)
 
 
 
