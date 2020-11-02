@@ -1,6 +1,9 @@
 # Retro3DCases
 3D Printer Files for enclosing some retro-computer boards...
 
+UPDATE: All Autodesk(tm) Fusio360 design Files are removed.
+All new design files will be based on DS Solidworks(tm).
+
 ## SC126 Compact v1
 
 ![](SC126_CompactCase)
@@ -8,7 +11,6 @@
 
 
 - [x] STL Design Files Available for Printing
-- [x] Autodesk(R) Fusion360 Project Files Available
 - [x] Case Assembly and Preparation Instructions Guide Available
 - [x] BOM Included in Guide
 - [ ] Detailed Printing Instructions Available
@@ -18,7 +20,6 @@
 ![](SC126_StackedCase)
 
 - [x] STL Design Files Available for Printing
-- [x] Autodesk(R) Fusion360 Project Files Available
 - [x] Case Assembly and Preparation Instructions Guide Available
 - [x] BOM Included in Guide
 - [ ] Detailed Printing Instructions Available
@@ -32,7 +33,6 @@
 
 
 - [ ] STL Design Files Available for Printing
-- [ ] Autodesk(R) Fusion360 Project Files Available
 - [ ] Case Assembly and Preparation Instructions Guide Available
 - [ ] BOM Included in Guide
 - [ ] Detailed Printing Instructions Available
