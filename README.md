@@ -1,7 +1,7 @@
 # Retro3DCases
 3D Printer Files for enclosing some retro-computer boards...
 
-UPDATE: All Autodesk(tm) Fusio360 design Files are removed.
+UPDATE: All Autodesk(tm) Fusio360 design files are removed.
 All new design files will be based on DS Solidworks(tm).
 
 ## SC126 Compact v1
